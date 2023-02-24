@@ -3,7 +3,8 @@
   "env": {
     "node": true,
     "browser": true
-  },
+  }, 
+  //comment added
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
